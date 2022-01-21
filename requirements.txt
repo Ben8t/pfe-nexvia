@@ -1,6 +1,6 @@
 # Requirements without particular version
 
-ipython == 6.1
+ipython == 7.16.3
 pylint == 1.6.5
 numpy == 1.13.3
 scipy  ==  1.0.0
